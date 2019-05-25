@@ -1,4 +1,4 @@
-## React Pexels Search
+## React YouTube Search
 
 React app for searching photos from YouTube API.
 
