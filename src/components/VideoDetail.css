@@ -1,0 +1,15 @@
+.video-detail {
+    margin-top: 10px;
+    border: none;
+    border-radius: .28571429rem;
+    -webkit-box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+    box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+    -webkit-transition: -webkit-box-shadow .1s ease,-webkit-transform .1s ease;
+    transition: -webkit-box-shadow .1s ease,-webkit-transform .1s ease;
+    transition: box-shadow .1s ease,transform .1s ease;
+    transition: box-shadow .1s ease,transform .1s ease,-webkit-box-shadow .1s ease,-webkit-transform .1s ease;
+}
+
+.meta {
+    color: rgba(0,0,0,.4);
+}
